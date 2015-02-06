@@ -106,3 +106,35 @@ background-color: #ffe524;
 margin: 0;
 padding: 1em;
 }
+
+div {
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+}
+
+.quotation {
+  text-align: center;
+  font-style: italic;
+  font-weight: bold;
+  font-size: 2em;
+  margin-bottom: 0;
+  margin-top: 0.5em;
+  color: #b2a215;
+}
+
+blockquote {
+  text-align: center;
+  font-style: italic;
+  margin-right: 5em;
+  margin-left: 5em;
+  color: #b2a215;
+  font-size: 1.25em;
+}
+
+.speaker {
+  text-align: center;
+  font-style: italic;
+  margin-top: 0;
+  color: #b2a215;
+  font-size: 1.25em;
+}
