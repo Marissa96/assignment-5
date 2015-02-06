@@ -31,11 +31,18 @@ h3 {
 }
 
 dl{
-margin: 0.5em;
+  margin: 0.5em;
+  font-family: arial, sans-serif;
 }
 
 dl dt {
   font-weight: bold;
+}
+
+dl dd{
+  margin: 0;
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
 }
 
 figure {
@@ -86,4 +93,16 @@ nav a:hover {
 
 p {
   margin: 0.5em;
+  font-family: arial, sans-serif;
+}
+
+.webs {
+  text-align: center;
+  margin: 0;
+  padding: 0.15em 0em 0em 0em;
+}
+footer{
+background-color: #ffe524;
+margin: 0;
+padding: 1em;
 }
